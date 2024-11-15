@@ -95,3 +95,8 @@ This approach ensures a reliable and scalable model for cyber-attack classificat
 ## Conclusion  
 
 This analysis provides a comprehensive understanding of the Cybersecurity Attacks Dataset. With the appropriate cleaning, visualization, and modeling techniques, the dataset has the potential to contribute to developing effective cyber threat detection systems.
+
+---
+
+## Kaggle Link
+https://www.kaggle.com/code/defneturut/notebookfec151c07a
